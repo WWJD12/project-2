@@ -122,10 +122,9 @@ nav {
     margin-bottom: 28px;
 
 
-.about-me__picture
+.about-me__picture {
   width: 100%;
-    
-}
+    }
    
 
     /* Improving my own picture */
